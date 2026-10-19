@@ -1,9 +1,9 @@
-I'm Bogdan. My site is [loadcpu.com](https://loadcpu.com).
+hey, i'm bogdan. here's my [personal website](https://loadcpu.com).
 
-Things I've built:
+things i've built:
 
-- [Demo](https://demo.loadcpu.com): screen recording for product demos
-- [Freethink](https://freethink.loadcpu.com): build the habit of writing
-- [Lock In](https://lockin.loadcpu.com): world's smallest screen blocker
+- [demo](https://demo.loadcpu.com): screen recording for product demos
+- [freethink](https://freethink.loadcpu.com): build the habit of writing
+- [lock in](https://lockin.loadcpu.com): world's smallest screen blocker
 
-Currently building [Silemus](https://silemus.com): master any subject visually.
+currently building [silemus](https://silemus.com): master any subject visually.
